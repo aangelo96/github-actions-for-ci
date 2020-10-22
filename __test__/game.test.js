@@ -13,7 +13,6 @@ describe('App', () => {
 
 describe('Game', () => {
   let game, p1, p2
-  console.log("Hello Game")
   beforeEach(() => {
     p1 = 'Salem'
     p2 = 'Nate'
